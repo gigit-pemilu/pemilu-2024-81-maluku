@@ -1,0 +1,20 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/003-tps)
+ | 
+[TPS 004](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/004-tps)
+ | 
+[TPS 005](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/005-tps)
+ | 
+[TPS 901](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/901-tps)
+ | 
+[TPS 902](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/902-tps)
+ | 
+[TPS 903](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/71-kota-ambon/sub/03-baguala/sub/2004-negeri-lama/sub/903-tps)
+

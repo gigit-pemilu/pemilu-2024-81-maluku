@@ -1,0 +1,16 @@
+# Menu Wilayah
+
+## Link
+
+[TPS 001](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/001-tps)
+ | 
+[TPS 002](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/002-tps)
+ | 
+[TPS 003](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/003-tps)
+ | 
+[TPS 004](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/004-tps)
+ | 
+[TPS 005](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/005-tps)
+ | 
+[TPS 006](https://github.com/gigit-pemilu/pemilu-2024-81-maluku/tree/main/pilpres/hitung-suara/sub/81-maluku/sub/03-kepulauan-tanimbar/sub/04-wermaktian/sub/2005-weratan/sub/006-tps)
+
